@@ -1,0 +1,26 @@
+{
+  "name": "projectweek-1-2020",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "markdownlint": "^0.19.0",
+    "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "lint": "markdownlint **/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vives-devbit/projectweek-1-2020.git"
+  },
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vives-devbit/projectweek-1-2020/issues"
+  },
+  "homepage": "https://github.com/vives-devbit/projectweek-1-2020#readme"
+}
