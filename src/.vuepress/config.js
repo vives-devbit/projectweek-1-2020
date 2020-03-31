@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Projectweek 2020',
   description: 'Projectweek 2020',
+  dest: 'dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
