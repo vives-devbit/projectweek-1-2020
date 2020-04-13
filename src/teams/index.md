@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Teams
 
 * **Team 1**
