@@ -9,7 +9,11 @@ module.exports = {
       { text: 'License', link: '/LICENSE.md' },
     ],
     sidebar: [
-      ['/', 'Home']
+      ['/', 'Home'],
+      ['/kalender/', 'Kalender'],
+      ['/teams/', 'Teams'],
+      ['/tools/', 'Tools'],
+      ['/evaluatie/', 'Evaluatie']
     ],
     repo: 'https://github.com/vives-devbit/projectweek-1-2020',
     docsDir: 'src',
