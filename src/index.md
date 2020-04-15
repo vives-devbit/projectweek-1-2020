@@ -18,9 +18,9 @@ In een week, maandag 20/04 tot en met vrijdag 24/04, met een team virtueel de ko
   * Maak een filmpje van je pitch.
 * We ❤ open source. Alle projecten worden via GitHub beschikbaar gemaakt onder de Apache 2.0 licentie.
 
-<h2>Topics</h2>
+## Topics
 
-<p>Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard kan een volledig nieuw idee ook.</p>
+Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard kan een volledig nieuw idee ook.
 
 ### 😷 Gezondheid
 
