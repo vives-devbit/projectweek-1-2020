@@ -32,6 +32,14 @@ Tutorial
 [Website](https://www.raspberrypi.org/)
 Tutorial
 
+## Docker
+
+Docker is een tool om software in een geisoleerde omgeving te draaien. Docker gebruikt daarvoor een techniek die containerization noemt.
+
+![Docker](./img/docker.jpg)
+
+* [Tutorial](http://vives.gitbook.io/docker)
+
 ## MQTT
 
 MQTT is één van de meest gebruikte protocollen voor Internet of Things apparaten te laten communiceren met elkaar.
