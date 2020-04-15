@@ -18,28 +18,28 @@ In een week, maandag 20/04 tot en met vrijdag 24/04, met een team virtueel de ko
   * Maak een filmpje van je pitch.
 * We ❤ open source. Alle projecten worden via GitHub beschikbaar gemaakt onder de Apache 2.0 licentie.
 
-## Topics
+<h2>Topics</h2>
 
-Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard kan een volledig nieuw idee ook.
+<p>Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard kan een volledig nieuw idee ook.</p>
 
-### Gezondheid
+### 😷 Gezondheid
 
 * Hoe gezond is mijn stad? Maak gebruik van open data om dit weer te geven.
 * Anonieme tracking van contacten met zieke personen aan de hand van Bluetooth LE
 * Detectie van dwaalgedrag bij mensen met dementie in woonzorgcentra
 
-### Onderwijs
+### 🎓 Onderwijs
 
 * Studenten lager en middelbaar onderwijs kunnen op dit ogenblik niet op stage. Kunnen zij ingezet worden als coach bij leerlingen die extra ondersteuning nodig hebben?
 * Hoe kan interactie tijdens online lessen verhoogd worden?
 
-### Ondernemingen
+### 🏭 Ondernemingen
 
 * Maak een overzicht van ondernemingen die diensten of goederen kunnen leveren
 * App voor een digitale wachtrij
 * Voucher systeem om nu ondernemingen, zoals kappers, restaurants, etc. financieel te steunen en later met de voucher de dienst te verkrijgen
 
-### Wellbeing
+### 🤗 Wellbeing
 
 * Hulpbehoevenden en vrijwilligers samenbrengen
   * Care credits
@@ -47,7 +47,7 @@ Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard k
 * Keep moving
 * Play apart, together
 
-### Logistiek
+### 🚚 Logistiek
 
 * Matchen van openstaande toeristische verblijfplaatsen als tijdelijke verblijfplaats voor daklozen
 * Matchen van koks die vrijwillig maaltijden willen koken voor goede doelen, zoals medisch personeel, woonzorgcentra, opvanghuizen, etc.
