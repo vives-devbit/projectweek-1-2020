@@ -130,3 +130,22 @@ moeilijk of zelfs onmogelijk worden.
 src="https://www.youtube.com/embed/q3gwZ3Q-s2s"
 frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## GitHub organisation
+
+Alle git projecten moeten in de organisatie [vives-projectweek-1-2020](https://github.com/vives-projectweek-1-2020)
+terecht komen. Het is onder geen enkel geval de bedoeling
+projecten op jullie eigen account te plaatsen.
+
+Om projecten binnen deze organisatie te maken kunnen jullie gebruik maken van volgende
+GitHub Classroom link: [classroom.github.com/g/O6cdIpc0](https://classroom.github.com/g/O6cdIpc0)
+
+Jullie kunnen daar nieuwe projecten en nieuwe groupen maken. 1 persoon hoeft het
+nieuwe project via bovenstaande link te bouwen, de andere kunnen zichzelf dan toevoegen.
+
+### Open source projecten
+
+Alle resultaten en projecten moeten onder open-source licentie beschikbaar zijn.
+Kies bij al jullie projecten de [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/).
+
+Vergeet ook de projecten niet publiek te maken en te houden op GitHub.
