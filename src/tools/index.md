@@ -41,6 +41,11 @@ MQTT staat voor Message Queuing Telemetry Transport. Het is een zeer lichtgewich
 ![MQTT](./img/mqtt.png)
 
 * [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
+* [MQTT NodeRed](https://www.youtube.com/watch?v=amA5OaXXCJo)
+* [MQTT C#](https://github.com/chkr1011/MQTTnet)
+  * [Wiki](https://github.com/chkr1011/MQTTnet/wiki)
+  * [Demo Code](git@github.com:BioBoost/DotNetMQTTDemo.git)
+* [MQTT NodeJS](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
 
 ## Node RED
 
