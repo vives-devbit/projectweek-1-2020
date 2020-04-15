@@ -12,7 +12,7 @@ module.exports = {
       ['/', 'Home'],
       ['/kalender/', 'Kalender'],
       ['/teams/', 'Teams'],
-      ['/git/', 'Samenwerken met git'],
+      ['/git/', 'Git'],
       ['/tools/', 'Tools'],
       ['/evaluatie/', 'Evaluatie']
     ],

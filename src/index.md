@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD013 -->
-# Projectweek 1 2020
+# Projectweek 2020: Hackers😎 vs. COVID-19 
 
 Het Coronavirus heeft een impact op elk aspect van de samenleving. Meer concreet verplicht het ons om ons te isoleren en van thuis uit te werken. Een klassieke projectweek in het lab is dus onmogelijk. Met een online hackathon rond alle maatschappelijke uitdagingen die deze crisis biedt, organiseert de bacheloropleiding Elektronica-ICT Brugge een alternatief. In deze hackathon zoeken wij praktische oplossingen voor kleine of grote problemen om het leven met de social distancing maatregelen eenvoudiger en aangenamer te maken.
 
@@ -20,11 +20,11 @@ In een week, maandag 20/04 tot en met vrijdag 24/04, met een team virtueel de ko
 
 ## Topics
 
-Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard kan een volledig nieuw idee ook.
+Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard is een volledig nieuw idee ook een optie.
 
 ### 😷 Gezondheid
 
-* Hoe gezond is mijn stad? Maak gebruik van open data om dit weer te geven.
+* Hoe gezond is mijn stad? Maak gebruik van open data om dit weer te geven
 * Anonieme tracking van contacten met zieke personen aan de hand van Bluetooth LE
 * Detectie van dwaalgedrag bij mensen met dementie in woonzorgcentra
 
@@ -35,17 +35,17 @@ Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard k
 
 ### 🏭 Ondernemingen
 
-* Maak een overzicht van ondernemingen die diensten of goederen kunnen leveren
-* App voor een digitale wachtrij
-* Voucher systeem om nu ondernemingen, zoals kappers, restaurants, etc. financieel te steunen en later met de voucher de dienst te verkrijgen
+* Maak een overzicht van ondernemingen die gesloten zijn, maar nog steeds diensten of goederen kunnen leveren
+* Bouw een app voor een digitale wachtrij van de supermarkt
+* Voucher systeem om ondernemingen, zoals kappers, restaurants, etc. nu financieel te steunen en later met deze voucher de dienst te verkrijgen
 
 ### 🤗 Wellbeing
 
-* Hulpbehoevenden en vrijwilligers samenbrengen
-  * Care credits
-* Break the loneliness
-* Keep moving
-* Play apart, together
+* Hulpbehoevenden en vrijwilligers matchen bij vraag en aanbod
+* Care credits zijn een puntensysteem waarbij vrijwilligers in ruil voor hun werk punten verzamelen. Daarna kunnen ze deze credits ruilen tegen een beloning
+* Break the loneliness: hoe breng je mensen bijeen zonder hen fysiek in dezelfde ruimte te plaatsen?
+* Play apart, together: in plaats van een bord- of kaartspel volledig te virtualiseren, is het mogelijk om de acties van een andere speler uit te voeren op het fysiek spel?
+* Keep moving: voorzie uitdagingen die mensen aanzet tot bewegen op een veilige manier
 
 ### 🚚 Logistiek
 

@@ -33,6 +33,7 @@ Static website generator geschreven in Python. Eenvoudig te hosten op
 [Netlfiy](https://netlify.com)
 
 Website: [gohugo.io](https://gohugo.io/)
+
 Tutorials:
 
 * [Quick Start](https://gohugo.io/getting-started/quick-start/)
@@ -79,6 +80,7 @@ Tutotials:
 Eenvoudig dynamische website bouwen in JavaScript.
 
 Website: [expressjs.com](https://expressjs.com/)
+
 Tutorials:
 
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
@@ -104,6 +106,7 @@ Static website generator geschreven in JavaScript. Eenvoudig te hosten op
 [Netlfiy](https://netlify.com)
 
 Website: [nuxtjs.org](https://nuxtjs.org/)
+
 Tutorials:
 
 * [Getting started](https://nuxtjs.org/guide/installation)
@@ -132,6 +135,7 @@ Static website generator geschreven in Vue. Eenvoudig te hosten op
 [Netlfiy](https://netlify.com). Deze website is gemaakt met Vuepress.
 
 Website: [vuepress.vuejs.org](https://vuepress.vuejs.org/)
+
 Tutorials:
 
 * [Get started](https://vuepress.vuejs.org/guide/)
