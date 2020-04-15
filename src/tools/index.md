@@ -53,6 +53,7 @@ Het biedt een browsergebaseerde editor die het gemakkelijk maakt om flows met el
 * [Website](https://nodered.org/)
 * [Installation](https://nodered.org/docs/getting-started/local)
 * [NodeRED Cookbook](https://cookbook.nodered.org/)
+* [NodeRED Dashboard Tutorial](https://youtu.be/X8ustpkAJ-U?t=105)
 
 ## Openshot
 
