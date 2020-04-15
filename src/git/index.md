@@ -133,7 +133,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 ## GitHub organisation
 
-Alle git projecten moeten in de organisatie [vives-projectweek-1-2020](https://github.com/vives-projectweek-1-2020) terecht komen. Het is onder geen enkel geval de bedoeling
+Alle git projecten moeten in de organisatie [vives-projectweek-1-2020](https://github.com/vives-projectweek-1-2020)
+terecht komen. Het is onder geen enkel geval de bedoeling
 projecten op jullie eigen account te plaatsen.
 
 Om projecten binnen deze organisatie te maken kunnen jullie gebruik maken van volgende
