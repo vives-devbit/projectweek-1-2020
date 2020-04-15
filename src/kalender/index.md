@@ -12,21 +12,21 @@
 | 14:45 - 15:45 | [*Presentatie idee*](./#presentatie-idee)| | [**Presentatie**](./#presentatie)| | [**Show-time**](./#show-time) |
 | 15:45 - ... | [Continue](./#continue)| [Continue](./#continue) | [Continue](./#continue)| [Continue](./#continue)| The END |
 
-## Kick-off 
+## Kick-off
 
 * *Waar?* Team Projectweek general channel
 * *Wie?* Iedereen
 * *Wat?* Start van de projectweek. Toelichting van de opdracht & afspraken.
 * *Wanneer?* Maandag 20/04 12:30
 
-## Brainstorm 
+## Brainstorm
 
 * *Waar?* Team Projectweek eigen team channel
 * *Wie?* Het team
 * *Wat?* Eerste opdracht voor het team, bedenk een teamnaam en een idee om uit te werken.
 * *Wanneer?* Maandag 20/04 na de kick-off
 
-## Presentatie idee 
+## Presentatie idee
 
 * *Waar?* Team Projectweek eigen team channel
 * *Wie?* Het team + alle docenten

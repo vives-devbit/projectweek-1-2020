@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD013 -->
-# Projectweek 2020: Hackers😎 vs. COVID-19 
+# Projectweek 2020: Hackers😎 vs. COVID-19
 
 Het Coronavirus heeft een impact op elk aspect van de samenleving. Meer concreet verplicht het ons om ons te isoleren en van thuis uit te werken. Een klassieke projectweek in het lab is dus onmogelijk. Met een online hackathon rond alle maatschappelijke uitdagingen die deze crisis biedt, organiseert de bacheloropleiding Elektronica-ICT Brugge een alternatief. In deze hackathon zoeken wij praktische oplossingen voor kleine of grote problemen om het leven met de social distancing maatregelen eenvoudiger en aangenamer te maken.
 
