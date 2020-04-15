@@ -34,8 +34,13 @@ Tutorial
 
 ## MQTT
 
-Website
-Tutorial
+MQTT is één van de meest gebruikte protocollen voor Internet of Things apparaten te laten communiceren met elkaar.
+
+MQTT staat voor Message Queuing Telemetry Transport. Het is een zeer lichtgewicht berichten protocol dat gebruik maakt van publish/subscribe mechanisme om gegevens tussen verschillende clients uit te wisselen.
+
+![MQTT](./img/mqtt.png)
+
+* [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
 
 ## Node RED
 
