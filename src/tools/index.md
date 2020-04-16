@@ -42,7 +42,7 @@ Tutorials:
 ## Raspberry Pi
 
 [Website](https://www.raspberrypi.org/)
-Tutorial
+[Tutorial](https://www.raspberrypi.org/help/)
 
 ## Docker
 
