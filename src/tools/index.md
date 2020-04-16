@@ -3,7 +3,7 @@
 
 ## App Inventor
 
-App Inventor is een web-gebaseerde ontwikkelingsomgeving voor het ontwikkelen van apps.
+App Inventor is een web-gebaseerde ontwikkelingsomgeving voor het ontwikkelen van mobiele apps.
 
 [Website](http://appinventor.mit.edu/)
 [Tutorial](https://www.youtube.com/watch?v=Vdo8UdkgDD8)
@@ -30,14 +30,14 @@ Tutorial
 ## Hugo
 
 Static website generator geschreven in Python. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com)
+[Netlify](https://netlify.com)
 
 Website: [gohugo.io](https://gohugo.io/)
 
 Tutorials:
 
 * [Quick Start](https://gohugo.io/getting-started/quick-start/)
-* [NIntroduction to Hugo | Hugo - Static Site Generator | Tutorial](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+* [Introduction to Hugo | Hugo - Static Site Generator | Tutorial](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 
 ## Raspberry Pi
 
@@ -67,7 +67,7 @@ MQTT staat voor Message Queuing Telemetry Transport. Het is een zeer lichtgewich
 
 Gebruik een MySQL database in JavaScript.
 
-Tutotials:
+Tutorials:
 
 * [Using MySQL With Node.js](https://www.youtube.com/watch?v=EN6Dx22cPRI)
 
@@ -97,7 +97,7 @@ Het biedt een browsergebaseerde editor die het gemakkelijk maakt om flows met el
 ## Nuxt
 
 Static website generator geschreven in JavaScript. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com)
+[Netlify](https://netlify.com)
 
 Website: [nuxtjs.org](https://nuxtjs.org/)
 
@@ -126,7 +126,7 @@ Tutorial:
 ## Vuepress
 
 Static website generator geschreven in Vue. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com). Deze website is gemaakt met Vuepress.
+[Netlify](https://netlify.com). Deze website is gemaakt met Vuepress.
 
 Website: [vuepress.vuejs.org](https://vuepress.vuejs.org/)
 
@@ -137,9 +137,9 @@ Tutorials:
 * [Vuepress Blog Tutorial - Learn How To Create A Blog With VuePress!](https://www.youtube.com/watch?v=UrWeoEMt7z8)
 * [VuePress A Vue.js Static Site Generator First Look!](https://www.youtube.com/watch?v=XoReHBlSXqI)
 
-## Wordpress
+## WordPress
 
-Wordpress is een gratis Content Management System (CMS), een tool om websites te maken.
+WordPress is een gratis Content Management System (CMS), een tool om websites te maken.
 
 [Website](https://wordpress.com/)
 [Tutorial](https://www.youtube.com/watch?v=8OBfr46Y0cQ)
