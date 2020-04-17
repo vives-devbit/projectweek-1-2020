@@ -3,7 +3,7 @@
 
 ## App Inventor
 
-App Inventor is een web-gebaseerde ontwikkelingsomgeving voor het ontwikkelen van apps.
+App Inventor is een web-gebaseerde ontwikkelingsomgeving voor het ontwikkelen van mobiele apps.
 
 [Website](http://appinventor.mit.edu/)
 [Tutorial](https://www.youtube.com/watch?v=Vdo8UdkgDD8)
@@ -30,25 +30,23 @@ Tutorial
 ## Hugo
 
 Static website generator geschreven in Python. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com)
+[Netlify](https://netlify.com)
 
 Website: [gohugo.io](https://gohugo.io/)
 
 Tutorials:
 
 * [Quick Start](https://gohugo.io/getting-started/quick-start/)
-* [NIntroduction to Hugo | Hugo - Static Site Generator | Tutorial](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+* [Introduction to Hugo | Hugo - Static Site Generator | Tutorial](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
 
 ## Raspberry Pi
 
 [Website](https://www.raspberrypi.org/)
-Tutorial
+[Tutorial](https://www.raspberrypi.org/help/)
 
 ## Docker
 
 Docker is een tool om software in een geisoleerde omgeving te draaien. Docker gebruikt daarvoor een techniek die containerization noemt.
-
-![Docker](./img/docker.jpg)
 
 * [Tutorial](http://vives.gitbook.io/docker)
 
@@ -58,20 +56,18 @@ MQTT is één van de meest gebruikte protocollen voor Internet of Things apparat
 
 MQTT staat voor Message Queuing Telemetry Transport. Het is een zeer lichtgewicht berichten protocol dat gebruik maakt van publish/subscribe mechanisme om gegevens tussen verschillende clients uit te wisselen.
 
-![MQTT](./img/mqtt.png)
-
 * [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
 * [MQTT NodeRed](https://www.youtube.com/watch?v=amA5OaXXCJo)
 * [MQTT C#](https://github.com/chkr1011/MQTTnet)
   * [Wiki](https://github.com/chkr1011/MQTTnet/wiki)
-  * [Demo Code](git@github.com:BioBoost/DotNetMQTTDemo.git)
+  * [Demo Code](https://github.com/BioBoost/DotNetMQTTDemo)
 * [MQTT NodeJS](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
 
 ## MYSQL in JavaScript
 
 Gebruik een MySQL database in JavaScript.
 
-Tutotials:
+Tutorials:
 
 * [Using MySQL With Node.js](https://www.youtube.com/watch?v=EN6Dx22cPRI)
 
@@ -93,8 +89,6 @@ Node-RED is een flow gebaseerde visuele ontwikkelomgeving ontwikkeld door IBM. H
 
 Het biedt een browsergebaseerde editor die het gemakkelijk maakt om flows met elkaar te verbinden met behulp van het brede scala aan nodes die met een klik kunnen worden ingezet tijdens de uitvoering.
 
-![NodeRED Flow](./img/flow-nodered.png)
-
 * [Website](https://nodered.org/)
 * [Installation](https://nodered.org/docs/getting-started/local)
 * [NodeRED Cookbook](https://cookbook.nodered.org/)
@@ -103,7 +97,7 @@ Het biedt een browsergebaseerde editor die het gemakkelijk maakt om flows met el
 ## Nuxt
 
 Static website generator geschreven in JavaScript. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com)
+[Netlify](https://netlify.com)
 
 Website: [nuxtjs.org](https://nuxtjs.org/)
 
@@ -132,7 +126,7 @@ Tutorial:
 ## Vuepress
 
 Static website generator geschreven in Vue. Eenvoudig te hosten op
-[Netlfiy](https://netlify.com). Deze website is gemaakt met Vuepress.
+[Netlify](https://netlify.com). Deze website is gemaakt met Vuepress.
 
 Website: [vuepress.vuejs.org](https://vuepress.vuejs.org/)
 
@@ -143,9 +137,9 @@ Tutorials:
 * [Vuepress Blog Tutorial - Learn How To Create A Blog With VuePress!](https://www.youtube.com/watch?v=UrWeoEMt7z8)
 * [VuePress A Vue.js Static Site Generator First Look!](https://www.youtube.com/watch?v=XoReHBlSXqI)
 
-## Wordpress
+## WordPress
 
-Wordpress is een gratis Content Management System (CMS), een tool om websites te maken.
+WordPress is een gratis Content Management System (CMS), een tool om websites te maken.
 
 [Website](https://wordpress.com/)
 [Tutorial](https://www.youtube.com/watch?v=8OBfr46Y0cQ)

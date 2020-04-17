@@ -39,7 +39,7 @@
 
 ## SCRUM
 
-* *Waar?* Team Projectweek eigen team chann
+* *Waar?* Team Projectweek eigen team channel
 * *Wie?* Het team + mentor
 * *Wat?* Overlopen van de issues, feedback van de mentor.
 * *Wanneer?* Elke ochtend en elke middag

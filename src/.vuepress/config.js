@@ -18,7 +18,8 @@ module.exports = {
     ],
     repo: 'https://github.com/vives-devbit/projectweek-1-2020',
     docsDir: 'src',
-    docsBranch: 'master'
+    docsBranch: 'master',
+    smoothScroll: true
   },
   markdown: {
     lineNumbers: true,

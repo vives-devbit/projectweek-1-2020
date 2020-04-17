@@ -5,7 +5,7 @@ Het Coronavirus heeft een impact op elk aspect van de samenleving. Meer concreet
 
 ## Doel
 
-In een week, maandag 20/04 tot en met vrijdag 24/04, met een team virtueel de koppen bij elkaar steken om een oplossing te bedenken, realiseren en pitchen die een uitdaging rond het Coronavirus aanpakt.
+In een week, van maandag 20/04 tot en met vrijdag 24/04, met een team virtueel de koppen bij elkaar steken om een oplossing te bedenken, realiseren en pitchen die een uitdaging rond het Coronavirus aanpakt.
 
 ## Aanpak
 
@@ -39,7 +39,7 @@ Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard i
 * Bouw een app voor een digitale wachtrij van de supermarkt
 * Voucher systeem om ondernemingen, zoals kappers, restaurants, etc. nu financieel te steunen en later met deze voucher de dienst te verkrijgen
 
-### 🤗 Wellbeing
+### 🤗 Well-being
 
 * Hulpbehoevenden en vrijwilligers matchen bij vraag en aanbod
 * Care credits zijn een puntensysteem waarbij vrijwilligers in ruil voor hun werk punten verzamelen. Daarna kunnen ze deze credits ruilen tegen een beloning
