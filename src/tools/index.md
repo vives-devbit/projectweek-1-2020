@@ -60,7 +60,7 @@ MQTT staat voor Message Queuing Telemetry Transport. Het is een zeer lichtgewich
 * [MQTT NodeRed](https://www.youtube.com/watch?v=amA5OaXXCJo)
 * [MQTT C#](https://github.com/chkr1011/MQTTnet)
   * [Wiki](https://github.com/chkr1011/MQTTnet/wiki)
-  * [Demo Code](git@github.com:BioBoost/DotNetMQTTDemo.git)
+  * [Demo Code](https://github.com/BioBoost/DotNetMQTTDemo)
 * [MQTT NodeJS](https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/)
 
 ## MYSQL in JavaScript
