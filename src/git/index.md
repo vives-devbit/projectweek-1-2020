@@ -51,7 +51,7 @@ met de andere ontwikkelaars in het project.
 Git lost dit op met een eigenschap die _mergen_ heet. Letterlijk vertaald betekend
 dit _samensmelten_. Het laat dan ook toe je experiment toe te voegen aan je project.
 
-[Lees hier meer over het `git merge` commando]([./git/merging.md](https://www.atlassian.com/git/tutorials/using-branches/git-merge))
+[Lees hier meer over het `git merge` commando](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 
 ### Merge conflicten
 
