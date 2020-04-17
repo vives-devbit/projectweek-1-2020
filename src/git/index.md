@@ -117,8 +117,8 @@ Geslaagde experimenten worden dan in de `master` branch gemerged.
 
 Heel belangrijk bij deze manier van werken is om héél regelmatig je feature branches
 te mergen met de master. Blijf niet dagenlang op een feature branch werken om dan
-pas te gaan mergen. Dit zal leiden tot veel mergeconflicten en dit zal niet aangenaam
-zijn om op te lossen.
+pas te gaan mergen. Dit zal leiden tot veel mergeconflicten en dit zal niet
+aangenaam zijn om op te lossen.
 
 De oplossing is om je feature branch continue te mergen met de master branch. Doe
 dit telkens er nieuwe functionaliteit toegevoegd is op de master branch. Hierdoor
