@@ -66,7 +66,7 @@ eenvoudig op te lossen. Voor meer informatie over hoe je dit in VSCode kunt doen
 kan je deze [video](https://www.youtube.com/watch?v=lXPYqVjyqHM) bekijken.
 
 Bij merge conflicten moet je nagaan welke code (uit welke branch) je wil behouden.
-Dit betekend dat je zelf moet beslissen welke code je wenst te behouden. Vaak komt
+Dit betekent dat je zelf moet beslissen welke code je wenst te behouden. Vaak komt
 het ook voor dat je code uit beide branches wil behouden. Het is in dat geval aan
 de programmeur om te bepalen hoe dit het best kan. Het is in elk geval dan niet de
 bedoeling om de code van de andere persoon weg te gooien.
@@ -75,7 +75,7 @@ bedoeling om de code van de andere persoon weg te gooien.
 
 ## Samenwerken met `remotes`
 
-Met branching en merging, werken je nog steeds lokaal op je eigen computer. Maar
+Met branching en merging, werk je nog steeds lokaal op je eigen computer. Maar
 uiteindelijk wil je ook je resultaten delen met de andere ontwikkelaars binnen je
 project of groep. Daarvoor kan je werken met _remotes_. Remotes zijn eigenlijk gewoon
 kopieën van het project die op een publieke server staan. Iedereen die aan

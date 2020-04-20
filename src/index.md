@@ -51,3 +51,4 @@ Ter inspiratie voorzien wij use cases in vijf onderstaande domeinen. Uiteraard i
 
 * Matchen van openstaande toeristische verblijfplaatsen als tijdelijke verblijfplaats voor daklozen
 * Matchen van koks die vrijwillig maaltijden willen koken voor goede doelen, zoals medisch personeel, woonzorgcentra, opvanghuizen, etc.
+* Reservatiesysteem voor het gebruik van het strand, rekening houdend met getijden
