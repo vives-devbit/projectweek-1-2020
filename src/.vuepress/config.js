@@ -14,6 +14,7 @@ module.exports = {
       ['/teams/', 'Teams'],
       ['/git/', 'Git'],
       ['/tools/', 'Tools'],
+      ['/data/', 'Data'],
       ['/evaluatie/', 'Evaluatie']
     ],
     repo: 'https://github.com/vives-devbit/projectweek-1-2020',
