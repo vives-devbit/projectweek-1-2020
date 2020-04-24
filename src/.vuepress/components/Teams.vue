@@ -2,7 +2,8 @@
   <div class="teams">
     <ul>
       <li v-for="team in teams">
-        <h2>Team {{ team.number }}</h2>
+        <h2>{{ team.name }}</h2>
+        <p><a v-bind:href="team.url" target="_blank">GitHub project</a></p>
         <p>Students:</p>
         <ul>
           <li v-for="student in team.students">{{ student }}</li>
