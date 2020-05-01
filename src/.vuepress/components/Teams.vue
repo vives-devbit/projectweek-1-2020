@@ -3,7 +3,10 @@
     <ul>
       <li v-for="team in teams">
         <h2>{{ team.name }}</h2>
-        <p><a v-bind:href="team.url" target="_blank">GitHub project</a></p>
+        <p>
+          <a v-bind:href="team.youtube" target="_blank">Presentatie</a>
+          <a v-bind:href="team.url" target="_blank" class="team-right">GitHub project</a>
+        </p>
         <p>Students:</p>
         <ul>
           <li v-for="student in team.students">{{ student }}</li>
@@ -49,5 +52,14 @@ div.teams>ul>li {
 div.teams>ul>li h2 {
   margin: 0px;
   border-bottom: 1px solid #AAA;
+}
+
+div.teams>a {
+  font-size:larger;
+  width:50%;
+}
+
+a.team-right{
+  float:right;
 }
 </style>
